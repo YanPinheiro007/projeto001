@@ -115,10 +115,11 @@ main img.pequena{
     max-width: 350px;
     display: block;
     margin: auto;
-    border-radius: 50%;
+    border-radius: 5%;
 }
 
 article > img{
+    padding-top: 35px;
     max-width: 500px;
     display: block;
     margin: auto;
@@ -127,5 +128,15 @@ article > img{
 .fixo{
     position: fixed;
     width: 100%;
-    height: 100%;
+    
+}
+
+ul{
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+h2{
+    font-size: 20px;
+    padding-bottom: 10px;
 }
