@@ -22,7 +22,14 @@ header{
     background-image: linear-gradient(to bottom, var(--azul), rgb(13, 28, 117));
     margin: 0%;
     height: 75px;
-    
+    align-items: center;
+    text-align: center;
+}
+
+header > img{
+    width: 170px;
+    height: 50px;
+    margin-top: 10px;
 }
 
 nav{
@@ -81,6 +88,7 @@ main{
 header>h1{
     padding-top: 5px;
     color:var(--branco);
+    font-size: medium;
 }
 
 header>p{
