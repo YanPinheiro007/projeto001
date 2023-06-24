@@ -21,15 +21,18 @@ body{
 header{
     background-image: linear-gradient(to bottom, var(--azul), rgb(13, 28, 117));
     margin: 0%;
-    height: 75px;
+    height: 65px;
     align-items: center;
-    text-align: center;
 }
 
 header > img{
+    padding-top: 5px;
+    padding-left: 10px;
+    align-items: center;
     width: 170px;
     height: 50px;
-    margin-top: 10px;
+    
+
 }
 
 nav{
