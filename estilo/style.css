@@ -170,3 +170,7 @@ table {
     background-color: #333;
     color: #fff;
 }
+
+iframe{
+    border-radius: 10px;
+}
